@@ -1,4 +1,5 @@
 # BiggestRobbery
-Hundreds of thousands families, and millions people go back to poverty because of savage robbery.
+### Hundreds of thousands families, millions people are going back to poverty because of savage robbery.
 
-![avatar](./pic/old.jpg)   ![avatar](./pic/child.jpg)
+![avatar](./pic/old.jpg)
+![avatar](./pic/child.jpg)
